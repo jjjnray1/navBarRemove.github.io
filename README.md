@@ -1,1 +1,1 @@
-# navBarRemove.github.io
+# standalone.html
